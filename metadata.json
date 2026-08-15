@@ -1,0 +1,6 @@
+{
+  "name": "Video Trimmer & Audio Extractor",
+  "description": "Client-side video trimming, audio extraction, and media processing using FFmpeg WebAssembly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
